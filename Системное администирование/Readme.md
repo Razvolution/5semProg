@@ -21,3 +21,4 @@ OC Linux: дистрибутив Иностранные Ubunta Debian Русск
 ![image](https://user-images.githubusercontent.com/97598502/191432629-f87811e4-20b3-44f0-b4e5-ba719a2d8b41.png)
 ![image](https://user-images.githubusercontent.com/97598502/191432685-420e8c8a-5d32-42a7-95bf-0b5e652d0da5.png)
 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 
+![image](https://user-images.githubusercontent.com/97598502/194837037-ecd13364-8cc8-4d7b-bc3d-a7e7ad18bc8b.png)
